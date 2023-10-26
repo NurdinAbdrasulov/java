@@ -12,6 +12,8 @@ The author is Nurdin Abdrasulov
 
 
 После завершения этих шагов, вы получите токен, который будет использоваться для управления вашим ботом.
+
+
 ![image](TelegaBot.jpg)
 
 # BotListener:
