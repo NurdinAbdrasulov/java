@@ -11,7 +11,7 @@ import lombok.experimental.FieldDefaults;
 @FieldDefaults(level = AccessLevel.PRIVATE)
 public class UserDto {
 
-    String name;
+    String name;// this is a name of user
     String surname;
     Integer age;
 
