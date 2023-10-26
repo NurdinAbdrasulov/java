@@ -1,4 +1,4 @@
-# KSTU
+# KSTU Razzakov
 
 Creation date 09/26/2023<br>
 The author is Nurdin Abdrasulov
